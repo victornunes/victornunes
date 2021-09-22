@@ -4,9 +4,8 @@ Estácio de Sá com mais de 8 anos de experiência com suporte técnico e 2 anos
 <p>
 Atualmente estou cursando graduação em Sistemas de Informação pela Estácio de Sá. 🤓
 </p>
-Aqui você pode acompanhar e colaborar em meus primeiros passos como desenvolvedor FrontEnd. <br>
-HTML5, CSS3, Javascript são coisas que não vão faltar por aqui!<br>
-Também estou estudando Kotlin atualmente, dando meus primeiros passos como desenvolvedor Android! 🤖 <br>
+Aqui você pode acompanhar e colaborar em meus primeiros passos como desenvolvedor Fullstack. <br>
+
 Estou em busca de estágio na área de T.I., colocação como técnico em informática ou oportunidades de desenvolvedor júnior.
 <p>
   
