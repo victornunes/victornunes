@@ -4,9 +4,9 @@ Estácio de Sá com mais de 8 anos de experiência com suporte técnico e 2 anos
 <p>
 Atualmente estou cursando graduação em Sistemas de Informação pela Estácio de Sá. 🤓
 </p>
-Aqui você pode acompanhar e colaborar em meus primeiros passos como desenvolvedor Fullstack. <br>
+Aqui você pode acompanhar e colaborar em meus primeiros passos como desenvolvedor Fullstack. Toda ajuda é bem vinda! <br>
 
-Estou em busca de estágio na área de T.I., colocação como técnico em informática ou oportunidades de desenvolvedor júnior.
+Atualmente trabalho como Assistente de T.I. | Técnico em Telecomunicações onde estou aprofundando meu conhecimento em redes (Área que particularmente amo)
 <p>
   
 Entre em contato pelo <a href="https://www.linkedin.com/in/victor-nunes-57a3a377/"> Linkedin </a> :wink: 
