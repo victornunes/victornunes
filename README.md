@@ -23,6 +23,12 @@ Aqui você pode acompanhar e colaborar em minha jornada de crescimento e aprendi
   </div>
 
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/victornunes/victornunes/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 <!--
 **victornunes/victornunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
