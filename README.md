@@ -1,5 +1,16 @@
 ### Olá, seja bem vindo(a) ao meu Github! 😄
 
+Sou mais um apaixonado por tecnologia formado pelo SENAC e UNESA com mais de 8 anos de experiência com suporte técnico e atendimento ao cliente.
+
+Atualmente estou cursando graduação em Sistemas de Informação, uma grande conquista pessoal ser a primeira pessoa da familia cursando uma faculdade, meu objetivo e me tornar um Desenvolvedor Full Stack!
+
+Atualmente trabalho como Assistente de Suporte onde estou aprofundando meu conhecimento em redes (Outra área que particularmente amo), fibra optica e em atendimento ao cliente!
+
+Busco minha primeira oportunidade na àrea de desenvolvimento!
+Aqui você pode acompanhar e colaborar em minha jornada de crescimento e aprendizado profissional, vamos trocar experiências e conhecimento!
+
+</br>
+
 <div align="center">
   <a href="https://github.com/victornunes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victornunes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
